@@ -1,5 +1,5 @@
 # SRF02
-Python or C code for reading distance from SRF02
+Python code for reading distance from SRF02
 
 SRF02 is a ultrasonic sensor ranging distance from 20cm upto 600cm.
 Power supply is given by 5V and the data read though I2C.
