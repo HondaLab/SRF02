@@ -11,7 +11,6 @@ But formats of these data are different from those in the case of BeagleBone Bla
 Therefore, in this repository I put a example of python code in order to read
 the distance data from SRF02
 
-<img src="https://github.com/HondaLab/SRF02/blob/master/23244200_540219726313824_5582184282879226965_n.jpg"  width=100>
-![snapthot](https://github.com/HondaLab/SRF02/blob/master/23244200_540219726313824_5582184282879226965_n.jpg?raw=true)
+<img src="https://github.com/HondaLab/SRF02/blob/master/23244200_540219726313824_5582184282879226965_n.jpg"  width=450>
 
 Yasushi Honda 2017 11/9
