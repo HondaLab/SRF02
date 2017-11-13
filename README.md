@@ -8,7 +8,7 @@ It can be connected to Raspberry Pi 3 I2C pins.
 Data about distance can be read from register 0x02 and 0x03.
 But formats of these data are different from those in the case of BeagleBone Black.
 
-Therefore, in this repository I put a example of python code in order to read
+Therefore, in this repository I put an example of python code in order to read
 the distance data from SRF02
 
 <img src="https://github.com/HondaLab/SRF02/blob/master/23244200_540219726313824_5582184282879226965_n.jpg"  width=450>
